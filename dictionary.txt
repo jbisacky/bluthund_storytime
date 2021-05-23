@@ -1,7 +1,7 @@
 Raesfeld
 Flughafen = Airport
 Berlin 
-Bratwurst
+Bratwurst = German sausage
 Hauptstrasse
 Brot
 Gauss
