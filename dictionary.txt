@@ -2,7 +2,7 @@ Raesfeld
 Flughafen = Airport
 Berlin 
 Bratwurst = German sausage
-Hauptstrasse
+Hauptstrasse = Main road
 Brot
 Gauss
 Klimaanlage
