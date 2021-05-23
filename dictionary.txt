@@ -13,7 +13,7 @@ BMW
 Biergarten = Beer garden
 Ratskeller = Council's cellar
 Dirndel
-Lederhose
+Lederhose = Leather pants
 Audi
 Schloss
 Munich
