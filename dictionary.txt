@@ -7,7 +7,7 @@ Brot = loaf
 Gauss
 Klimaanlage = Air conditioning
 Rammstein
-Musik
+Musik = Music
 Porsche
 BMW
 Biergarten
