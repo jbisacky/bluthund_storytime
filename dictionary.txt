@@ -11,7 +11,7 @@ Musik = Music
 Porsche
 BMW
 Biergarten = Beer garden
-Ratskeller
+Ratskeller = Council's cellar
 Dirndel
 Lederhose
 Audi
