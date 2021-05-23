@@ -10,7 +10,7 @@ Rammstein
 Musik = Music
 Porsche
 BMW
-Biergarten
+Biergarten = Beer garden
 Ratskeller
 Dirndel
 Lederhose
