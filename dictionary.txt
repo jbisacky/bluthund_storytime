@@ -3,7 +3,7 @@ Flughafen = Airport
 Berlin 
 Bratwurst = German sausage
 Hauptstrasse = Main road
-Brot
+Brot = loaf
 Gauss
 Klimaanlage
 Rammstein
