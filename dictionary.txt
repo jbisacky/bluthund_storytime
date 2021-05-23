@@ -15,7 +15,7 @@ Ratskeller = Council's cellar
 Dirndel
 Lederhose = Leather pants
 Audi
-Schloss
+Schloss = Lock
 Munich
 wettbewerbsfaehig
 Mehlhase
