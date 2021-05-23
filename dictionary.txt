@@ -21,4 +21,4 @@ wettbewerbsfaehig
 Mehlhase
 Gebaeck
 Baeckerei
-Hund
+Hund = Dog
