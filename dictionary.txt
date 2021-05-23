@@ -5,7 +5,7 @@ Bratwurst = German sausage
 Hauptstrasse = Main road
 Brot = loaf
 Gauss
-Klimaanlage
+Klimaanlage = Air conditioning
 Rammstein
 Musik
 Porsche
