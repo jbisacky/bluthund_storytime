@@ -4,7 +4,7 @@ Berlin
 Bratwurst = German sausage
 Hauptstrasse = Main road
 Brot = loaf
-Gauss
+Gauss = German Mathematician
 Klimaanlage = Air conditioning
 Rammstein
 Musik = Music
@@ -16,9 +16,9 @@ Dirndel
 Lederhose = Leather pants
 Audi
 Schloss = Lock
-Munich
+Munich = City in Germany
 wettbewerbsfaehig
 Mehlhase
 Gebaeck = Pastries
-Baeckerei
+Baeckerei = Bakery
 Hund = Dog
