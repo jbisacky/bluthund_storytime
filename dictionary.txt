@@ -19,6 +19,6 @@ Schloss = Lock
 Munich
 wettbewerbsfaehig
 Mehlhase
-Gebaeck
+Gebaeck = Pastries
 Baeckerei
 Hund = Dog
