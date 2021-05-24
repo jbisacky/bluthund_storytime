@@ -1,24 +1,24 @@
-Raesfeld
+Raesfeld = A munipicipality in the district of Borken
 Flughafen = Airport
-Berlin 
+Berlin = The capital of Germany
 Bratwurst = German sausage
 Hauptstrasse = Main road
 Brot = loaf
 Gauss = German Mathematician
 Klimaanlage = Air conditioning
-Rammstein
+Rammstein = A German metal band
 Musik = Music
-Porsche
-BMW
+Porsche = Car Company
+BMW = Car company
 Biergarten = Beer garden
 Ratskeller = Council's cellar
-Dirndel
+Dirndel = A traditional Bavarian dress
 Lederhose = Leather pants
-Audi
-Schloss = Lock
+Audi = Car Company
+Schloss = Lock/Castle
 Munich = City in Germany
-wettbewerbsfaehig
-Mehlhase
+wettbewerbsfaehig = Competitive
+Mehlhase = Professor at ASU
 Gebaeck = Pastries
 Baeckerei = Bakery
 Hund = Dog
